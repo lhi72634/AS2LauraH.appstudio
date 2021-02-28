@@ -1,3 +1,4 @@
+//Laura Higueras
 //Variables to hold input Data
 
 let firstName = prompt("Enter your first name")
